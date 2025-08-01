@@ -31,19 +31,3 @@ To strengthen the relationship between Vignan University and its alumni by offer
 ## 📁 Project Structure
   For a detailed project structure, refer to [PROJECT_STRUCTURE.md](./PROJECT_STRUCTURE.md).
 
-## 🛠️ Setup Instructions
-
-> _Include detailed steps if this repo is public or meant for collaboration_
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-org>/alumni-management.git
-
-# Navigate to the directory
-cd alumni-management
-
-# Install dependencies
-npm install  # or pip install -r requirements.txt
-
-# Start the development server
-npm start  # or appropriate backend command
