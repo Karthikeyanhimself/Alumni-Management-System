@@ -21,8 +21,6 @@ To strengthen the relationship between Vignan University and its alumni by offer
 
 ## 🏗️ Tech Stack
 
-> _Update this section based on your actual stack_
-
 - Frontend: React / HTML-CSS-JS  
 - Backend: Node.js  
 - Database: MongoDB  
