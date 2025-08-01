@@ -1,0 +1,62 @@
+ALUMNIMANAGEMENT/
+├── Backend/
+│ ├── middlewares/
+│ │ └── authMiddleware.js
+│ ├── models/
+│ │ ├── alumni.js
+│ │ ├── alumnidata.js
+│ │ ├── data.js
+│ │ ├── faculty.js
+│ │ └── Post.js
+│ ├── routes/
+│ │ ├── alumniRoutes.js
+│ │ ├── dataRoutes.js
+│ │ ├── facultyRoutes.js
+│ │ └── postRoutes.js
+│ ├── scripts/
+│ │ └── birthdayWishes.js
+│ ├── templates/
+│ ├── db.js
+│ ├── index.js
+│ ├── package.json
+│ ├── package-lock.json
+│ └── scheduler.js
+│
+├── Frontend/
+│ ├── public/
+│ └── src/
+│ ├── assets/
+│ ├── components/
+│ │ ├── Alumni.jsx
+│ │ ├── AlumniDetails.jsx
+│ │ ├── AlumniFilter.jsx
+│ │ ├── AlumniFilterResults.jsx
+│ │ ├── AlumniLogin.jsx
+│ │ ├── AlumniSignup.jsx
+│ │ ├── CreatePost.jsx
+│ │ ├── EmailAlumniFilter.jsx
+│ │ ├── EmailFilterResults.jsx
+│ │ ├── FacultyApproval.jsx
+│ │ ├── FacultyDashboard.jsx
+│ │ ├── FacultyLogin.jsx
+│ │ ├── FacultyPosts.jsx
+│ │ ├── Filter.jsx
+│ │ ├── FilterResults.jsx
+│ │ ├── Gallery3.jsx
+│ │ ├── Hero.jsx
+│ │ ├── Home.jsx
+│ │ ├── Login.jsx
+│ │ ├── Navbar.jsx
+│ │ ├── PendingPost.jsx
+│ │ ├── Post.jsx
+│ │ └── ViewAlumni.jsx
+│ ├── App.jsx
+│ ├── index.js
+│ ├── main.jsx
+│ ├── vite.config.js
+│ ├── .eslintrc.js
+│ └── .gitignore
+│
+├── README.md
+├── .gitignore
+└── vite.config.js
