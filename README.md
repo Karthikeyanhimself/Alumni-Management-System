@@ -29,5 +29,5 @@ To strengthen the relationship between Vignan University and its alumni by offer
 - Hosting: Vercel
 
 ## 📁 Project Structure
-  For a detailed project structure, refer to [PROJECT_STRUCTURE.md](./PROJECT_STRUCTURE.txt).
+  For a detailed project structure, refer to [PROJECT_STRUCTURE.txt](./PROJECT_STRUCTURE.txt).
 
